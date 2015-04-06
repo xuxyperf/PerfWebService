@@ -1,0 +1,12 @@
+E:\C\PerfWebService\PerfWebService\bin\PerfWebService.dll
+E:\C\PerfWebService\PerfWebService\bin\PerfWebService.pdb
+E:\C\PerfWebService\PerfWebService\obj\Release\PerfWebService.dll
+E:\C\PerfWebService\PerfWebService\obj\Release\PerfWebService.pdb
+E:\C\PerfWebService\PerfWebService\obj\Release\Interop.JITComVCTKLib.dll
+E:\C\PerfWebService\PerfWebService\obj\Release\PerfWebService.csproj.ResolveComReference.cache
+E:\C#Project\PerfWebService\PerfWebService\obj\Release\PerfWebService.csprojResolveAssemblyReference.cache
+E:\C#Project\PerfWebService\PerfWebService\obj\Release\PerfWebService.dll
+E:\C#Project\PerfWebService\PerfWebService\bin\PerfWebService.dll.config
+E:\C#Project\PerfWebService\PerfWebService\bin\PerfWebService.dll
+E:\C#Project\PerfWebService\PerfWebService\bin\PerfWebService.pdb
+E:\C#Project\PerfWebService\PerfWebService\obj\Release\PerfWebService.pdb

@@ -1,0 +1,7 @@
+E:\C\PerfWebService\PerfWebService\bin\PerfWebService.dll
+E:\C\PerfWebService\PerfWebService\bin\PerfWebService.pdb
+E:\C\PerfWebService\PerfWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\C\PerfWebService\PerfWebService\obj\Debug\PerfWebService.dll
+E:\C\PerfWebService\PerfWebService\obj\Debug\PerfWebService.pdb
+E:\C\PerfWebService\PerfWebService\obj\Debug\Interop.JITComVCTKLib.dll
+E:\C\PerfWebService\PerfWebService\obj\Debug\PerfWebService.csproj.ResolveComReference.cache
